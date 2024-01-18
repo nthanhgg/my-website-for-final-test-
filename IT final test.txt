@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<img src="banner.jpg">
+</head> 
+
+<body> 
+<h1> style="color:red;">Rmit is a global university of technology, design and eterprise</h1>
+<p> Top 200 universities worldwide (QS World University Ranking 2021)
+    12,456 industry placements for students in 2022 
+    90,000+ students fro 194 different countries studying at RMIT 
+</p>
+<h1>
+<h2> style="color:red;">Enjoy a global experience</h2>
+<p> As part of a truly global university, we offer experience at campuses all over the world. 
+    Austrailia 
+       Melbourne city campus 
+       Bundoora campus 
+       Brunswick campus  
+    Vietnam 
+       Saigon South campus 
+       Hanoi campus 
+    Spain 
+       Barcelona campus 
+<img src="banner.jpg"> 
+<h3> style="background-color:powderred;"> Explore your study options</h3>
+<img src="programs.png">
+<img src="parents.png">
+<img src="students.png">
+<img src="logo.png">
+</html>
